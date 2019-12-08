@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Employee</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="edit_employee">Edit Employee</string>
+    <string name="search_employee">Search Employee</string>
+    <string name="name">Name</string>
+    <string name="telephone">Telephone</string>
+    <string name="email">Email</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="emp_no">Emp No</string>
+    <string name="search">Search</string>
+
+    <string-array name="emp_type">
+        <item>Permanent</item>
+        <item>Temporary</item>
+    </string-array>
+</resources>
